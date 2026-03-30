@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Self Control",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-03-30T13:26:07.362731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Self Control",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/01_Self_Control_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Self Control",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": false,
+      "path": "select/02_Self_Control_YoungBoy_Never_Broke_Again.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Self Control",
+      "artist": "Fun Factory",
+      "has_synced": false,
+      "path": "select/03_Self_Control_Fun_Factory.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Self Control",
+      "artist": "Marsheaux",
+      "has_synced": true,
+      "path": "select/04_Self_Control_Marsheaux.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Self Control",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/05_Self_Control_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Self Control (Feat. Yung Lean & Austin Feinstein)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/06_Self_Control_(Feat._Yung_Lean_&_Austin_Feinstein)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Self Control",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/07_No_Self_Control_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Self Control",
+      "artist": "Kate Boy",
+      "has_synced": true,
+      "path": "select/08_Self_Control_Kate_Boy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Lose Myself - No Self Control Mix by Gareth Jones",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/09_I_Lose_Myself_-_No_Self_Control_Mix_by_Gareth_Jones_Erasure.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Self Control",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/10_No_Self_Control_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Self Control",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/11_No_Self_Control_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Self-Control",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/12_No_Self-Control_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Self-Control",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/13_No_Self-Control_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Self-Control",
+      "artist": "Peter Gabriel (SACD 2003 Remaster)",
+      "has_synced": true,
+      "path": "select/14_No_Self-Control_Peter_Gabriel_(SACD_2003_Remaster).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Self‐Control",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/15_No_Self‐Control_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Self Control",
+      "artist": "Scissor Sisters",
+      "has_synced": true,
+      "path": "select/16_Self_Control_Scissor_Sisters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Self Control",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Self_Control_Frank_Ocean.txt"
+    }
+  ]
+}
